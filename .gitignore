@@ -1,5 +1,6 @@
 ### Go template
 # Binaries for programs and plugins
+src/monitoring-service
 src/src
 src/golangci-lint
 
