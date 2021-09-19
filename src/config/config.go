@@ -17,9 +17,7 @@ type Config struct {
 
 // ServiceConfig is an entity for Service configuration
 type ServiceConfig struct {
-	ListenURL  string `json:"ListenURL"`
-	URLPrefix  string `json:"URLPrefix"`
-	APIVersion string `json:"APIVersion"`
+	ListenURL string `json:"ListenURL"`
 }
 
 // Load loads config once
