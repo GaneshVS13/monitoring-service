@@ -1,0 +1,9 @@
+{
+    "ServiceConfig": {
+        "ListenURL": ":8080"
+    },
+    "URLs": [
+        "https://httpstat.us/200",
+        "https://httpstat.us/503"
+    ]
+}

@@ -1,0 +1,25 @@
+### Go template
+# Binaries for programs and plugins
+src/src
+src/golangci-lint
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+src/static-analysis.xml
+src/cover-cobertura.xml
+
+vendor/
+
+# IDEs:
+.idea/
+.vscode/
+
+# logs:
+*.log
+*.log.*
+
+# xml:
+*.xml
